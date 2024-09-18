@@ -28,3 +28,7 @@ Links for our project (onshape, bill of materials, etc.): https://tinyurl.com/GE
 ### Success Criteria
 
 ### Safety
+
+### Gearbox
+We attempted to fabricate a gear box. We decided against this however because the
+gears were made of PLA. The gears would imediatley strip if used for this purpose.
