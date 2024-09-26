@@ -12,25 +12,36 @@ We are constantly looking for different ways to move around today, looking for c
 Our idea is to build a bike generator to charge small devices, including cell phones. This is modeled off stationary generators which can already function as a solid source of electricity. However, in order to make this mobile so it doesn't seem trivially time-wasting, we can make this function as the bike is mobile. Although this requires more initial input in energy, the electricity which can be harnessed is also well worth it. 
 
 ### Research
+Initially, we didn't research much. This is actually a common progression in projects, wanting to work quicker rather than effectively. However, we identified this quickly and soon started finding out information on bikes. Solomon brought in his bike in the middle of September, but it was somewhat small and we didn't know if this was a feasible model. As of September 26, we are experimenting with how the bike can generate electricity, and want to start with a stationary model as well as finding a way to mount the bike. The biggest research aspect is to figure out how a bike generates electricity, and how we can make such a model.
 
 ### Rough Sketches
+Here is a sketch we started with at the beginning of September. It is insufficient in scope and I plan to make a new one. For example, it doesn't say exactly where we will mount the electronics, which is still a big barrier we need to get over.
+<img src="https://raw.githubusercontent.com/Raffi-Chen/generator/refs/heads/main/Schematics/Initial_oGrady_Schematic.jpg">
 
 ### Diagrams
+Below is our initial wiring diagram from the beginning of September. We ended up realizing we didn't need the electronics for the battery, as you don't need a battery to charge a phone, for instance.
+<img src="https://raw.githubusercontent.com/Raffi-Chen/generator/86741abf0989b225ce2ef9798456df859e540b64/Schematics/Schematic_Bicycle-alternator_2024-09-13.svg"></img>
 
 ### Variations
 After we complete the main idea of this project, we have several other ideas of where to go. First of all, we could add an LCD display, most importantly checking the status of the generator and if it is communicating with the device it is charging. Additionally, it might help to add a motor so electricity could be stored in a hybrid format and make it easier to pedal. However, this is an ambitious addition and likely will not be visited.
 
 ### Function
+A working project will be able to harness the spin of motor, generating a certain voltage that is converted by the alternator and subsequently connected to an outlet that can charge devices.
 
 ### Bill of Materials
+Here is our current Bill of Materials: <a href="https://docs.google.com/spreadsheets/d/1djZTwYndhB5teGSTFrf0gxe1GKC-UUmbuojJfftjynM">BOM</a>
 
 ### Pseudocode
+As we do not already have a working conception of our code besides the basic LCD code I started with, there is nothing to see here, really. For now, we don't have much of a wiring/coding aspect.
 
 ### Schedule
+Can be found within our project proposal: <a href="https://docs.google.com/document/d/1L9IMAola1WDWwxcp_cP9-0LkZaMpwWcJz7ReJo8bZH0">Project Proposal</a>
 
 ### Success Criteria
+We will know we are successful when we have a working generator that can both allow the bike to move relatively seamlessly, while being able to generate an ample amount of electricity.
 
 ### Safety
+The most important aspect of safety for this project is not to blow up anything, not to kill ourselves ... you know, the basics. Also, no internal combustion engines or any other crazy Solomon stuff. Other than that, we should make sure to clean up after ourselves and not make everything a mess. This aspect should go fine if we're somewhat self-aware.
 
 ### Gearbox
 We attempted to fabricate a gear box. We decided against this however because the
