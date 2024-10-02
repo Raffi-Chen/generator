@@ -16,11 +16,12 @@ Initially, we didn't research much. This is actually a common progression in pro
 
 ### Rough Sketches
 Here is a sketch we started with at the beginning of September. It is insufficient in scope and I plan to make a new one. For example, it doesn't say exactly where we will mount the electronics, which is still a big barrier we need to get over.
-<img src="https://raw.githubusercontent.com/Raffi-Chen/generator/refs/heads/main/Schematics/Initial_oGrady_Schematic.jpg">
+<br><img src="https://raw.githubusercontent.com/Raffi-Chen/generator/refs/heads/main/Schematics/Initial_oGrady_Schematic.jpg">
 
 ### Diagrams
 Below is our initial wiring diagram from the beginning of September. We ended up realizing we didn't need the electronics for the battery, as you don't need a battery to charge a phone, for instance.
 <img src="https://raw.githubusercontent.com/Raffi-Chen/generator/86741abf0989b225ce2ef9798456df859e540b64/Schematics/Schematic_Bicycle-alternator_2024-09-13.svg"></img>
+<br><br>Here is a new schematic that incorporates more realistic locations on any bike. We are still working on solutions to mount each contraption, especially in area where the parts are elevated in relation to the bike wheel.
 
 ### Variations
 After we complete the main idea of this project, we have several other ideas of where to go. First of all, we could add an LCD display, most importantly checking the status of the generator and if it is communicating with the device it is charging. Additionally, it might help to add a motor so electricity could be stored in a hybrid format and make it easier to pedal. However, this is an ambitious addition and likely will not be visited.
@@ -46,3 +47,5 @@ The most important aspect of safety for this project is not to blow up anything,
 ### Gearbox
 We attempted to fabricate a gear box. We decided against this however because the
 gears were made of PLA. The gears would imediatley strip if used for this purpose.
+
+## Materials
