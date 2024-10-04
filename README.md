@@ -21,7 +21,12 @@ Here is a sketch we started with at the beginning of September. It is insufficie
 ### Diagrams
 Below is our initial wiring diagram from the beginning of September. We ended up realizing we didn't need the electronics for the battery, as you don't need a battery to charge a phone, for instance.
 <img src="https://raw.githubusercontent.com/Raffi-Chen/generator/86741abf0989b225ce2ef9798456df859e540b64/Schematics/Schematic_Bicycle-alternator_2024-09-13.svg"></img>
-<br><br>Here is a new schematic from 10/1 that incorporates more realistic locations on any bike. We are still working on solutions to mount each contraption, especially in area where the parts are elevated in relation to the bike wheel.
+<br><br>Here is a new schematic from October 1st that incorporates more realistic locations on any bike. We are still working on solutions to mount each contraption, especially in area where the parts are elevated in relation to the bike wheel.
+
+<br><br>This is a schematic which our Link Lab mentor helped us with when we her on October 2nd. This helped us gague a point by which we could jump off of.
+<img src="https://raw.githubusercontent.com/Raffi-Chen/generator/refs/heads/main/Schematics/SkyeDrawings.jpg">
+<br><br>Afterwards, we came up with some dimensions that could help us with our more polished drawings. These were finalized on October 4th.
+
 
 ### Variations
 After we complete the main idea of this project, we have several other ideas of where to go. First of all, we could add an LCD display, most importantly checking the status of the generator and if it is communicating with the device it is charging. Additionally, it might help to add a motor so electricity could be stored in a hybrid format and make it easier to pedal. However, this is an ambitious addition and likely will not be visited.
