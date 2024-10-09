@@ -25,16 +25,16 @@ Here is a sketch we started with at the beginning of September. It is insufficie
 Below is our initial wiring diagram from the beginning of September. We ended up realizing we didn't need the electronics for the battery, as you don't need a battery to charge a phone, for instance.
 <img src="https://raw.githubusercontent.com/Raffi-Chen/generator/86741abf0989b225ce2ef9798456df859e540b64/Schematics/Schematic_Bicycle-alternator_2024-09-13.svg">
 
-<br>This is a schematic which our Link Lab mentor helped us with when we her on October 2nd. This helped us gague a point by which we could jump off of.
+This is a schematic which our Link Lab mentor helped us with when we her on October 2nd. This helped us gague a point by which we could jump off of.
 <img src="https://raw.githubusercontent.com/Raffi-Chen/generator/refs/heads/main/Schematics/SkyeDrawings.jpg">
 
-<br>Afterwards, we came up with some dimensions that could help us with our more polished drawings. These were finalized on October 4th.
+Afterwards, we came up with some dimensions that could help us with our more polished drawings. These were finalized on October 4th.<br>
 <img src="https://raw.githubusercontent.com/Raffi-Chen/generator/refs/heads/main/Schematics/dimensions.jpg">
 
-<br>This led me to a more finished sketch of the bike with dimensions.
+This led me to a more finished sketch of the bike with dimensions.<br>
 <img src="https://raw.githubusercontent.com/Raffi-Chen/generator/refs/heads/main/Schematics/dimensions%20with%20bike.jpg">
 
-<br>Right now, we are thinking of solutions for how to incorporate an adapter into the grand scheme of the project, since it interferes with the pedal.
+Right now, we are thinking of solutions for how to incorporate an adapter into the grand scheme of the project, since it interferes with the pedal.<br>
 <img src="https://github.com/Raffi-Chen/generator/blob/main/Schematics/adapter%20options.jpg">
 
 ### Variations
