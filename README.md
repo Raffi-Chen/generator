@@ -1,5 +1,5 @@
 # GENo'Grady*
-<b>By Solomon and Raffi </b><br><br>
+<b>By Solomon and Raffi </b><br><br><b>Engineering IV, Fall 2024</b><br><br>
 *named after the funniest teacher in CHS history<br><br>
 Links for our project (onshape, bill of materials, etc.): https://tinyurl.com/GENoGradyLINKS<br>
 
@@ -63,3 +63,11 @@ We attempted to fabricate a gear box. We decided against this however because th
 gears were made of PLA. The gears would imediatley strip if used for this purpose.
 
 ## Materials
+
+## Updates
+
+### October 10, 2024
+We've been distracted for a while and are trying to get back on track. Right now we are figuring out how each part interacts with each other, specifically:
+<li>Testing the motor for voltage</li>
+<li>Attaching brackets to the back wheel to anticipate the generator being attached to the same vicinity</li>
+<li>Discussing the outlet location so that would be able to attach it later. It will go near the handle bars, and we could use o-rings, rather than having to design an entire bracket.</li>
