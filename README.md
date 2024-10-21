@@ -71,3 +71,9 @@ We've been distracted for a while and are trying to get back on track. Right now
 <li>Testing the motor for voltage</li>
 <li>Attaching brackets to the back wheel to anticipate the generator being attached to the same vicinity</li>
 <li>Discussing the outlet location so that would be able to attach it later. It will go near the handle bars, and we could use o-rings, rather than having to design an entire bracket.</li>
+
+### October 21, 2024
+Now we're kind of done with the back motor mount, but it's somewhat unstable. We're also not sure if it actually works, especially since there isn't much tension between the motor and the wheel. For our next steps, we should:
+<li>Get the hose clamps for the front alternator and middle wires and attach them</li>
+<li>Design a box in Onshape for the motor</li>
+<li>Think about Arduino components to incorporate</li>
