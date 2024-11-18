@@ -78,7 +78,7 @@ Now we're kind of done with the back motor mount, but it's somewhat unstable. We
 <li>Design a box in Onshape for the motor</li>
 <li>Think about Arduino components to incorporate</li>
 
-### November 18, 2024
+### October-November 18, 2024
 We forgot to update this for several weeks. We finished the motor mount. The gear that is mounted to the tire is slightly off center but throwing a bunch more power at the motor results in it turning anyway.
 We have not tested the generator capabilities yet. Our next step is to create a mount for the inverter. That way we can power it and get 120vac out. At first we tried having the gear push against the tire.
 After doing this we found the motor imediatley stalls and we can't push the bike at all. After this we put a gear on the tire to have it interact with the motor. Because our welding equipment is defunct we had to bolt it directly
