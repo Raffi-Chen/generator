@@ -67,22 +67,27 @@ gears were made of PLA. The gears would imediatley strip if used for this purpos
 ## Updates
 
 ### October 10, 2024
-We've been distracted for a while and are trying to get back on track. Right now we are figuring out how each part interacts with each other, specifically:
+Raffi: We've been distracted for a while and are trying to get back on track. Right now we are figuring out how each part interacts with each other, specifically:
 <li>Testing the motor for voltage</li>
 <li>Attaching brackets to the back wheel to anticipate the generator being attached to the same vicinity</li>
 <li>Discussing the outlet location so that would be able to attach it later. It will go near the handle bars, and we could use o-rings, rather than having to design an entire bracket.</li>
 
 ### October 21, 2024
-Now we're kind of done with the back motor mount, but it's somewhat unstable. We're also not sure if it actually works, especially since there isn't much tension between the motor and the wheel. For our next steps, we should:
+Raffi: Now we're kind of done with the back motor mount, but it's somewhat unstable. We're also not sure if it actually works, especially since there isn't much tension between the motor and the wheel. For our next steps, we should:
 <li>Get the hose clamps for the front alternator and middle wires and attach them</li>
 <li>Design a box in Onshape for the motor</li>
 <li>Think about Arduino components to incorporate</li>
 
 ### October-November 18, 2024
-We forgot to update this for several weeks. We finished the motor mount. The gear that is mounted to the tire is slightly off center but throwing a bunch more power at the motor results in it turning anyway.
+Solomon & Raffi: We forgot to update this for several weeks. We finished the motor mount. The gear that is mounted to the tire is slightly off center but throwing a bunch more power at the motor results in it turning anyway.
 We have not tested the generator capabilities yet. Our next step is to create a mount for the inverter. That way we can power it and get 120vac out. At first we tried having the gear push against the tire.
 After doing this we found the motor imediatley stalls and we can't push the bike at all. After this we put a gear on the tire to have it interact with the motor. Because our welding equipment is defunct we had to bolt it directly
 to the wheel which resulted in it being off center. This is because there was no hole for polts so we had to bolt it to the spokes. It worked while being off center. Not sure why our welding equipment doesn't work otherwise we'd
 be done in 20 minutes after simply welding the gear to the tire and having that connected to the motor.
 
-
+### November 21, 2024
+Solomon: Welp I was banned from the engineering lab 💀 I can come back next week thankfully. I am very diorganized and I think I don't have enough adderall.
+I left random things around the lab and made a mess. I am working on how we can do this. Instead of bolting it at awkward angles, I will weld it to the tire. This way it will be centered and the chains will stop popping off. 
+I want to bring my own stick welder into the lab because our current welders run off 240 instead of 120 and we dont have any 240 outlets.
+I need to work out how to not blind people in the lab. I also need to ask Mr. Rediesky if I can bring it to the lab. I will use a 3/32" 7018 welding electrode. This is a low hydrogen industrial strength electrode. 
+I will not weld it to the axel as the axel is stationary.
