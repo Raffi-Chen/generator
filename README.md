@@ -91,3 +91,33 @@ I left random things around the lab and made a mess. I am working on how we can 
 I want to bring my own stick welder into the lab because our current welders run off 240 instead of 120 and we dont have any 240 outlets.
 I need to work out how to not blind people in the lab. I also need to ask Mr. Rediesky if I can bring it to the lab. I will use a 3/32" 7018 welding electrode. This is a low hydrogen industrial strength electrode. 
 I will not weld it to the axel as the axel is stationary.
+
+### Photo Dump
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1403.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1404.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1405.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1406.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1407.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1408.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1409.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1410.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1411.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1412.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1413.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1414.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1415.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1416.png">
+<img src="https://github.com/Raffi-Chen/generator/blob/main/IMG_1417.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
